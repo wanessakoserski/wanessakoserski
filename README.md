@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanessakoserski
 - 👀 I’m interested in learning from collaborative work
-- 🌱 I’m currently learning SQL. C, C# and Angular
+- 🌱 I’m currently learning SQL, C, C# and Angular
 - 📫 Reach me via e-mail: wkoserski@gmail.com
 
 <!---
