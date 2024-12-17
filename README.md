@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanessakoserski
 - 👀 I’m interested in learning from collaborative work
-- 🌱 I’m currently learning Python, Ruby, C, C# and Angular
+- 🌱 I’m currently learning Python, Ruby, Go, C# and Java
 - 📫 Reach me via e-mail: wkoserski@gmail.com
 
 <!---
